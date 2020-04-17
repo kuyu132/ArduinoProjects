@@ -2,7 +2,7 @@
 //   FILE:  dht11_test1.pde
 // PURPOSE: DHT11 library test sketch for Arduino
 //
-#include </Users/kuyuzhiqi/Downloads/dht11/dht11_test/dht11.h>
+#include </Users/kuyuzhiqi/Documents/Workspace/ArduinoProjects/dht11/dht11_test/dht11.h>
 //#include <dht11.h>
 dht11 DHT;
 #define DHT11_PIN 4
